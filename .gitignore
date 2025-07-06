@@ -1,5 +1,6 @@
 #file
 *.csv
+*.txt
 
 #folder
 venv/
